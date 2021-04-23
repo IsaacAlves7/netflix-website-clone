@@ -1,4 +1,4 @@
-# 👽🛸 Clone Project: <img src="https://cdn.worldvectorlogo.com/logos/netflix-3.svg" height="30">
+# 👽 Clone Project: <img src="https://cdn.worldvectorlogo.com/logos/netflix-3.svg" height="30">
 It's a repository of NETFLIX Website Clone using HTML5, CSS3, JavaScript, jQuery, React.js and React Router.
 
 # Inspired by:
